@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Mon site web</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div class="logo">
+				<img src="logo.png" alt="Logo de Mon site web">
+			</div>
+			<nav>
+				<ul>
+					
+			</nav>
+		</div>
+	</header>
+	<main>
+		<section class="hero">
+			<div class="container">
+				<h1>Bienvenue sur Net-armor</h1>
+				<p>Garantit une utilisation sécurisée et privée d'internet, un fonctionnement fluide de vos appareils grâce à nos solutions primées et faciles à utiliser..</p>
+				<a href="#" class="btn">En savoir plus</a>
+			</div>
+		</section>
+		<section class="products">
+			<div class="container">
+				<h2>Nos produits</h2>
+				<ul>
+					<li>
+						
+						<h3>Net-arm-Standard</h3>
+						<p>Bien plus qu’un antivirus. Nouvelle protection multi-appareils
+                            Sécurité avancée: anti-phishing et pare-feu inclus.
+                            Fonctionnement rapide: nettoyage et gestion des applications.
+                            Paiements en ligne: protection totale lors de vos achats. .</p>
+					</li>
+					<li>
+						
+						<h3>Net-arm-Plus</h3>
+						<p>Kaspersky Plus optimise votre vie en ligne grâce aux outils de sécurité nouvelle génération.
+
+                            Sécurité avancée: anti-phishing et pare-feu inclus.
+                            Outils de performance et surveillance du disque dur: pour un fonctionnement fluide de vos appareils.
+                            VPN illimité et gestionnaire de mots de passe: sécurité et confidentialité de votre vie en ligne. .</p>
+					</li>
+					<li>
+                        <div><section class="jsx-3874458533 themeContainer ThemeContainer_themed__1yCrV"><div class="FeatureInfoGrid_root__MNvxv"><div class="FeatureInfoGrid_container__3n2He"><div class="FeatureInfoGrid_inner__Axr58"><div class="FeatureInfoGrid_cardsContent__tSchp"><div class="Gradient_gradient__VvKpQ" style="background:linear-gradient(#0996DC 0%, rgba(255,255,255, 0) 100%)"></div><h4 class="Gradient_gradientTitleWrapper__Z9S_2"><span style="color:#0996DC" class="Gradient_gradientTitle__pAlQy" id="gradient-title-57">La performance</span></h4><div class="FeatureInfoGrid_cardsWrapper__PxzaC"><div class="FeatureInfoGrid_cards__NaqFp FeatureInfoGrid_cardsThreeColumn__3MKgn"><div class="Paper_root__pvO9i PaperLight_root__g44gK Card_root__S3j4w FeatureInfoGrid_card__r6ap3" style="border-bottom-color:#0996DC" tabindex="0"><div><div class="Card_iconWrapper__z0z7j MatchHeight_maxWidth100__cpaW_" style="height: 59px"><div style="max-width:100%"><img src="https://content.kaspersky-labs.com/se/com/content/en-global/images/baseline/feature-info-grid/dro-standard-blue-2/dro-standard-blue-2.svg" data-testid="baselineImage" class="Card_icon__06SEl" alt="" role="presentation" width="56" height="56"></div></div><div class="MatchHeight_maxWidth100__cpaW_" style="height: 50px"><div style="max-width:100%"><h5 class="Card_title__Dglsy CardLight_title__JYsd4" id="title-42">Nettoyage du disque dur et surveillance de son intégrité</h5></div></div><div class="MatchHeight_maxWidth100__cpaW_" style="height: auto"><div style="max-width:100%"></div></div><div class="Card_descriptionWrapper__4urhD MatchHeight_maxWidth100__cpaW_" style="height: 110px"><div style="max-width:100%"><div class="Card_description__EulZW CardLight_description__Si2z1">Solutions permettant de gérer l'espace de stockage de votre appareil, de procéder à un bilan de santé de votre disque dur et d'éviter la perte de vos données.</div></div></div><div class="MatchHeight_maxWidth100__cpaW_" style="height: auto"><div style="max-width:100%"></div></div><div class="Card_linkWrapper__N2CvM MatchHeight_maxWidth100__cpaW_" style="height: 22px"><div style="max-width:100%"><button data-at-selector="link-button" data-testid="baselineLink" style="color:#0996DC" class="Link_link__P_DgY LightLink_link__1u5JZ" aria-describedby="title-42">Plus d'infos<span class="Link_icon___Zwgg">&nbsp;<svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="fill:#0996DC" class="Link_svg__R7cYt LightLink_svg__o39Wb"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.1 5.9V10h1.8V5.9H10V4.1H5.9V0H4.1v4.1H0v1.8h4.1Z"></path></svg></span></button></div></div></div></div><div class="Paper_root__pvO9i PaperLight_root__g44gK Card_root__S3j4w FeatureInfoGrid_card__r6ap3" style="border-bottom-color:#0996DC" tabindex="0"><div><div class="Card_iconWrapper__z0z7j MatchHeight_maxWidth100__cpaW_" style="height: 59px"><div style="max-width:100%"><img src="https://content.kaspersky-labs.com/fm/site-editor/e9/e9a2b1ea6a2e1464fd92935c51ddbd9b/processed/speed022x-q75.webp" data-testid="baselineImage" class="Card_icon__06SEl" alt="" role="presentation" width="56" height="56"></div></div><div class="MatchHeight_maxWidth100__cpaW_" style="height: 50px"><div style="max-width:100%"><h5 class="Card_title__Dglsy CardLight_title__JYsd4" id="title-49">Optimisation des performances
+</h5></div></div><div class="MatchHeight_maxWidth100__cpaW_" style="height: auto"><div style="max-width:100%"></div></div><div class="Card_descriptionWrapper__4urhD MatchHeight_maxWidth100__cpaW_" style="height: 110px"><div style="max-width:100%"><div class="Card_description__EulZW CardLight_description__Si2z1">Des mesures rapides pour booster la vitesse de vos appareils et leur permettre de fonctionner aussi vite qu'au premier jour.</div></div></div><div class="MatchHeight_maxWidth100__cpaW_" style="height: auto"><div style="max-width:100%"></div></div><div class="Card_linkWrapper__N2CvM MatchHeight_maxWidth100__cpaW_" style="height: 22px"><div style="max-width:100%"><button data-at-selector="link-button" data-testid="baselineLink" style="color:#0996DC" class="Link_link__P_DgY LightLink_link__1u5JZ" aria-describedby="title-49">Plus d'infos<span class="Link_icon___Zwgg">&nbsp;<svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="fill:#0996DC" class="Link_svg__R7cYt LightLink_svg__o39Wb"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.1 5.9V10h1.8V5.9H10V4.1H5.9V0H4.1v4.1H0v1.8h4.1Z"></path></svg></span></button></div></div></div></div><div class="Paper_root__pvO9i PaperLight_root__g44gK Card_root__S3j4w FeatureInfoGrid_card__r6ap3" style="border-bottom-color:#0996DC" tabindex="0"><div><div class="Card_iconWrapper__z0z7j MatchHeight_maxWidth100__cpaW_" style="height: 59px"><div style="max-width:100%"><img src="https://content.kaspersky-labs.com/se/com/content/en-global/images/baseline/feature-info-grid/dro-standard-blue-3/dro-standard-blue-3.svg" data-testid="baselineImage" class="Card_icon__06SEl" alt="" role="presentation" width="56" height="56"></div></div><div class="MatchHeight_maxWidth100__cpaW_" style="height: 50px"><div style="max-width:100%"><h5 class="Card_title__Dglsy CardLight_title__JYsd4" id="title-56">Divertissement sans interruption
+
+</h5></div></div><div class="MatchHeight_maxWidth100__cpaW_" style="height: auto"><div style="max-width:100%"></div></div><div class="Card_descriptionWrapper__4urhD MatchHeight_maxWidth100__cpaW_" style="height: 110px"><div style="max-width:100%"><div class="Card_description__EulZW CardLight_description__Si2z1">Vous permet de regarder des films, de jouer ou d’utiliser des applications en plein écran sans aucune interférence, à vitesse maximale.</div></div></div><div class="MatchHeight_maxWidth100__cpaW_" style="height: auto"><div style="max-width:100%"></div></div><div class="Card_linkWrapper__N2CvM MatchHeight_maxWidth100__cpaW_" style="height: 22px"><div style="max-width:100%"><button data-at-selector="link-button" data-testid="baselineLink" style="color:#0996DC" class="Link_link__P_DgY LightLink_link__1u5JZ" aria-describedby="title-56">Plus d'infos<span class="Link_icon___Zwgg">&nbsp;<svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="fill:#0996DC" class="Link_svg__R7cYt LightLink_svg__o39Wb"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.1 5.9V10h1.8V5.9H10V4.1H5.9V0H4.1v4.1H0v1.8h4.1Z"></path></svg></span></button></div></div></div></div></div></div></div></div></div></div></section></div><div aria-hidden="true" data-type="indent" style="background:transparent;z-index:auto" class="jsx-4035042303 crossPlatformIndentWrapper"><div class="jsx-4035042303 crossPlatformIndent"></div></div>
+			<p>© 2023 Mon site web. Tous droits réservés.</p>
+		</div>
+	</footer>
+</body>
+</html>
