@@ -1,0 +1,42 @@
+.card {
+    width: 300px;
+    background-color: #e40c0c;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+    background-image: url('image/85329.jpg');
+    background-size: cover;
+    
+  
+
+  }
+
+ 
+  
+  
+  h1 {
+    font-size: 36px;
+    color: #f10707;
+    margin-top: 0;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #f10707;
+    margin-top: 0;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #f10707;
+  }
+  
+
+  
+  #map {
+    width: 100%;
+    height: 400px;
+    margin-top: 20px;
+    display: none;
+  }
