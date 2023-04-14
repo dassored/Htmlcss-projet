@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Carte de visite virtuelle</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="card">
+      <h1>[AlPHA]</h1>
+      <h2>[HACKER]</h2>
+      <p>Téléphone : [Numéro de téléphone]</p>
+      <p>Email : [darkweb@mail.com]</p>
+      <p>Site Web : "[www.darkweb.com]<p>
+      
+      <img src="code-QR.jpg" alt="code-QR" width="100" height="100">
+
+      <div id="map"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
