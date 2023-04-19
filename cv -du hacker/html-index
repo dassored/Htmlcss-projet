@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Hacker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 class="glitch">CV Hacker</h1>
+        <h2>A propos de moi</h2>
+        <p>je suis un passionné de la technologie et de la cybersécurité, et je suis actuellement à la recherche d'une formation pour acquérir les compétences nécessaires pour réussir dans ce domaine passionnant.    .</p>
+
+        <h2>Mes compétences</h2>
+        <ul>
+            <li>conniassance en HTML/CSS</li>
+            <li>Connaissances de base en Python</li>
+            <li>Connaissances de base en bash</li>
+            <li>Expérience windose , linux, Mac os</li>
+            <li>Connaissances de base en matière en réseaux</li>
+            <li>Expérience avec les outils phishing ,SocialBox-Termux , Zphishe, virtuelBox, </li>
+            <li>Expérience avec les outils d'analyse de sécurité, tels que Nessus, Nmap, john the ripper, Wireshark et sherlock </li>
+        </ul>
+
+        <h2>Projets personnels</h2>
+            <li>Hacker-ethic-tool en python</li>
+            <li>Connaissances de base en Python</li>
+            <li>Htmlcss projet</li>
+            <li>Blague scripting</li>
+            <li>python machine</li>
+            
+        </ul>
+            
+                
+            
+            <li>
+                <h5>Software Engineer</h5>
+                <p>Entreprise ABC</p>
+                <p>2016 - 2018</p>
+            
+            <li>
+                <h5>Intern</h5>
+                <p>Entreprise DEF</p>
+                <p>2015 - 2016</p>
+            </li>
+        </ul>
+
+        <h2>Education</h2>
+        <ul>
+            
+                <li>Certificats cisco IT (technobelle) </li>
+                <li>Cours en ligne sur la cybersécurité, sur des plateformes comme udemy</li>
+                <p></p>
+                <p></p>
+            </li>
+            <li>
+                <h5>Bachelien en immobilier </h5>
+                <p>Université ABC</p>
+                <p>2010 - 2013</p>
+            </li>
+        </ul>
+    </div>
+
+</body>
+
+</html>
